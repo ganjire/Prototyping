@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Mathematik 1",
+    "professor": "Dr. Martin Geller",
+    "room": "SW402",
+    "students": []
+  },
+  {
+    "name": "Mathematik 1",
+    "professor": "Lana Gert",
+    "room": "SO407",
+    "students": []
+  },
+  {
+    "name": "Statistik 1",
+    "professor": "Fatima Merti",
+    "room": "SO301",
+    "students": []
+  },
+  {
+    "name": "Statistik 2",
+    "professor": "Gerry Mouler",
+    "room": "SW314",
+    "students": []
+  },
+  {
+    "name": "BWL",
+    "professor": "Dr. Maia Haltom",
+    "room": "SW403",
+    "students": []
+  },
+  {
+    "name": "VWL",
+    "professor": "Jana Schmid",
+    "room": "SO10",
+    "students": []
+  },
+  {
+    "name": "Einführung Wirtschaftsinformatik",
+    "professor": "Dr. Vikki Stein",
+    "room": "SL201",
+    "students": []
+  },
+  {
+    "name": "Data Management",
+    "professor": "Aleks Sturm",
+    "room": "SW126",
+    "students": []
+  },
+  {
+    "name": "Scientific Programming",
+    "professor": "Iman Afim",
+    "room": "SI302",
+    "students": []
+  },
+  {
+    "name": "Accounting",
+    "professor": "Lara Herti",
+    "room": "SO111",
+    "students": []
+  },
+  {
+    "name": "Wirtschaftsrecht",
+    "professor": "Nassim Halma",
+    "room": "SI401",
+    "students": []
+  },
+  {
+    "name": "Kommunikation",
+    "professor": "Jason Segal",
+    "room": "SI200",
+    "students": []
+  },
+  {
+    "name": "Data Science Introduction",
+    "professor": "Helena Stun",
+    "room": "SI114",
+    "students": []
+  },
+  {
+    "name": "Prototyping",
+    "professor": "Heinrich Giller",
+    "room": "SW123",
+    "students": []
+  },
+  {
+    "name": "IT-Projectmanagement",
+    "professor": "Sara Müller",
+    "room": "SW301",
+    "students": []
+  }
+]

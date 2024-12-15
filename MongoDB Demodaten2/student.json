@@ -1,0 +1,107 @@
+[
+    {
+        "id": 1,
+        "name": "Gratiana Everix",
+        "student_id": "1325592161",
+        "birthday": "21.12.2001",
+        "course": []
+    },
+    {
+        "id": 2,
+        "name": "Anallise Stonelake",
+        "student_id": "3753836710",
+        "birthday": "07.02.2002",
+        "course": []
+    },
+    {
+        "id": 3,
+        "name": "Karissa Salvatore",
+        "student_id": "5759703722",
+        "birthday": "30.08.1999",
+        "course": []
+    },
+    {
+        "id": 4,
+        "name": "Willem Spittal",
+        "student_id": "5596942367",
+        "birthday": "03.06.1997",
+        "course": []
+    },
+    {
+        "id": 5,
+        "name": "Pace Burchell",
+        "student_id": "7892081267",
+        "birthday": "20.12.2000",
+        "course": []
+    },
+    {
+        "id": 6,
+        "name": "Thorvald Farnhill",
+        "student_id": "9311086762",
+        "birthday": "17.06.2000",
+        "course": []
+    },
+    {
+        "id": 7,
+        "name": "Katrinka Titcombe",
+        "student_id": "9955328355",
+        "birthday": "30.05.2001",
+        "course": []
+    },
+    {
+        "id": 8,
+        "name": "Dianne Binns",
+        "student_id": "3461707848",
+        "birthday": "02.08.1999",
+        "course": []
+    },
+    {
+        "id": 9,
+        "name": "Jud Penright",
+        "student_id": "2821181132",
+        "birthday": "14.01.1999",
+        "course": []
+    },
+    {
+        "id": 10,
+        "name": "Shana Latch",
+        "student_id": "4225639029",
+        "birthday": "17.10.1998",
+        "course": []
+    },
+    {
+        "id": 11,
+        "name": "Lianna Szepe",
+        "student_id": "7668497609",
+        "birthday": "09.09.1998",
+        "course": []
+    },
+    {
+        "id": 12,
+        "name": "Nathanial Brotherhed",
+        "student_id": "4770682999",
+        "birthday": "15.10.1999",
+        "course": []
+    },
+    {
+        "id": 13,
+        "name": "Libbey Charette",
+        "student_id": "2995455602",
+        "birthday": "28.07.1997",
+        "course": []
+    },
+    {
+        "id": 14,
+        "name": "Nara Killwick",
+        "student_id": "2616190818",
+        "birthday": "13.03.2001",
+        "course": []
+    },
+    {
+        "id": 15,
+        "name": "Faina Hachard",
+        "student_id": "2892945992",
+        "birthday": "29.06.2000",
+        "course": []
+    }
+]
